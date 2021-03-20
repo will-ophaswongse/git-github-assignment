@@ -1,1 +1,3 @@
 Hello, this is me trying to learn about VIM. This should be a txt file.
+
+Add some content to make commit.
